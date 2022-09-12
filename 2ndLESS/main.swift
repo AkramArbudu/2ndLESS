@@ -1,4 +1,11 @@
 
 import Foundation
 
-//JANNY
+print("Hello, World!")
+
+let name: String = "Akram"
+
+//gugugtutut
+var nameTwo: String
+
+  //  VAR NA
